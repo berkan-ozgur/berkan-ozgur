@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @berkan-ozgur
 - 👀 I’m interested in coding, and improve my coding skills.
 - 🌱 I’m currently learning Unity and Javascript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me berkanozgur@hotmail.com
 
 <!---
