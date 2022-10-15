@@ -1,7 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 <h1 align="center">Hi 👋, I'm Berkan Özgür</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce_w200.webp">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning **React**
 
