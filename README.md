@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Berkan Özgür</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-
-- 🌱 I’m currently learning **React**
+<h3 align="center">A passionate Frontend and Unity Developer</h3>
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **berkanozgur@hotmail.com**
 
-- ⚡ Fun fact **I am just chillinnnn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
