@@ -18,3 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkan-ozgur&layout=compact&theme=dark)](https://github.com/berkan-ozgur/github-readme-stats)
 ![snake gif](https://github.com/berkan-ozgur/berkan-ozgur/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/berkan-ozgur/count.svg" />
+</p>
+
