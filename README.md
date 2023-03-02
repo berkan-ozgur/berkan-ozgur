@@ -17,7 +17,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkan-ozgur&layout=compact&theme=dark)](https://github.com/berkan-ozgur/github-readme-stats)
-![snake gif](https://github.com/berkan-ozgur/berkan-ozgur/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/berkan-ozgur/berkan-ozgur/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center"> 
   Visitor Count<br>
