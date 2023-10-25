@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkan Özgür</h1>
 <h3 align="center">A passionate Frontend Develeoper</h3>
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **berkanozgur@hotmail.com**
 
 
