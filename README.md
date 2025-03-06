@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkan Özgür</h1>
-<h3 align="center">A passionate Frontend Develeoper</h3>
+<h3 align="center">A passionate Software Developer & Database Consultant</h3>
 
 - 📫 How to reach me **berkanozgur@hotmail.com**
 
